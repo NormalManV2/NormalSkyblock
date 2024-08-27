@@ -1,0 +1,10 @@
+name: Skyblock
+version: '1.0-SNAPSHOT'
+main: normalmanv2.skyblock.Skyblock
+api-version: '1.21'
+prefix: [ NormalSkyblock ]
+load: STARTUP
+authors: [ NormalMan_V2 ]
+description: A hybrid skyblock-rpg core!
+commands:
+  island:
